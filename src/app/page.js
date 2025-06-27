@@ -31,7 +31,7 @@ export default function Home() {
             style={{ objectFit: "cover" }}
           />
           <h1 className="text-2xl font-extrabold text-center text-purple-600 drop-shadow-[0_2px_8px_rgba(186,104,200,0.18)]">
-            Will you forgive me? <span className="text-3xl">🥺</span>
+            do you you like me? <span className="text-3xl">🥺</span>
           </h1>
           <div className="relative w-full h-40">
             <button
@@ -68,7 +68,7 @@ export default function Home() {
                   fontFamily: "'Quicksand', sans-serif",
                 }}
               >
-                Really?
+                really?
               </div>
             )}
           </div>
@@ -82,7 +82,7 @@ export default function Home() {
             style={{ objectFit: "cover" }}
           />
           <h2 className="text-xl font-bold text-center text-[#1DA1F2]">
-            Yay! thank u for forgiving me :D <span className="text-2xl">💙</span>
+            Yay! thank u 4 liking me :D <span className="text-2xl">💙</span>
           </h2>
         </div>
       )}
