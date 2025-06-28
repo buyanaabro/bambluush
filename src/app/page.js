@@ -31,7 +31,7 @@ export default function Home() {
             style={{ objectFit: "cover" }}
           />
           <h1 className="text-2xl font-extrabold text-center text-purple-600 drop-shadow-[0_2px_8px_rgba(186,104,200,0.18)]">
-            will you forgive me? <span className="text-3xl">🥺</span>
+            do u like me? <span className="text-3xl">🥺</span>
           </h1>
           <div className="relative w-full h-40">
             <button
@@ -76,13 +76,14 @@ export default function Home() {
       ) : (
         <div className="bg-white/95 rounded-[2.5rem] shadow-[0_8px_32px_0_rgba(31,38,135,0.18)] px-8 py-6 flex flex-col items-center gap-4 max-w-xs w-full border-4 border-blue-100">
           <img
-            src="https://tenor.com/view/mochi-mochimochi-gif-24509680.gif"
+            // src="https://tenor.com/view/mochi-mochimochi-gif-24509680.gif"
+            src="https://tenor.com/view/peach-and-goma-cuddle-goma-cuddle-peach-goma-love-peach-and-goma-hug-gif-11226330665226391694.gif"
             alt="Happy Mochimochi Cat"
             className="w-28 h-28 rounded-full shadow-lg mb-2"
             style={{ objectFit: "cover" }}
           />
           <h2 className="text-xl font-bold text-center text-[#1DA1F2]">
-            Yay! thank u 4 forgiving me :D <span className="text-2xl">💙</span>
+            Yay! thank u 4 liking me :D <span className="text-2xl">💙</span>
           </h2>
         </div>
       )}
